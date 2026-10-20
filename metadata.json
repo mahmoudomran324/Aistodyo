@@ -1,0 +1,6 @@
+{
+  "name": "بلدي - متجر أحلى بقالة",
+  "description": "منصة متجر بلدي وأحلى بقالة للخضار والفاكهة والبقوليات والأجبان والمجففات - سوق إلكتروني متكامل للعملاء والتجار والإدارة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
